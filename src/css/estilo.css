@@ -1,6 +1,6 @@
 
  body{
-    background-color:  lightgray ;
+    background-color:  lightblue ;
     max-width: 350px;
     display: flex;
     box-sizing: border-box;
@@ -26,11 +26,7 @@
     width: 300px;
     border-radius: 15px;
     margin: auto;
-    margin-top: 25px;
-   
- 
-    
-    
+    margin-top: 25px;   
     
  }
 
@@ -53,4 +49,5 @@
    text-align: center;
 
   }
+
 
